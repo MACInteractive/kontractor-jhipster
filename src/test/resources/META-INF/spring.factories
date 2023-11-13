@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.mi.kontractor.\
+    config.TestContainersSpringContextCustomizerFactory,com.mi.kontractor.\
+    config.RedisTestContainersSpringContextCustomizerFactory
